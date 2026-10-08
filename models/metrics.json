@@ -1,0 +1,18 @@
+{
+  "SVM": {
+    "accuracy": 0.9787,
+    "f1": 0.979
+  },
+  "Random Forest": {
+    "accuracy": 0.978,
+    "f1": 0.978
+  },
+  "XGBoost": {
+    "accuracy": 0.9753,
+    "f1": 0.9756
+  },
+  "LSTM": {
+    "accuracy": 0.9813,
+    "f1": 0.9815
+  }
+}
